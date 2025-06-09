@@ -1,0 +1,6 @@
+api_key: "YOUR_DIGITALOCEAN_API_KEY"
+input_folder: "./testscene"
+droplet_name: "gpu-render-droplet"
+region: "nyc3"
+size: "g-rtx4000-8"
+image: "ubuntu-20-04-x64"
