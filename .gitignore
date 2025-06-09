@@ -1,0 +1,14 @@
+# Go binary
+/render-cli
+
+# Go build directory
+/bin/
+/obj/
+
+# IDE files
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
